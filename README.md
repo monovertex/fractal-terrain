@@ -52,6 +52,9 @@ _Note: this project is not in active development._
 * __3__ - fractal map, 1x tessellation
 * __4__ - fractal map, 2x tessellation
 * __5__ - fractal map, 4x tessellation
+
+---
+
 * __F1__ - fullscreen
 * __F2__ - exit fullscreen
 
