@@ -24,6 +24,7 @@ _Note: this project is not in active development._
 * __S__ - move camera backwards
 * __Mouse__ - move camera on Y / Z axes
 
+
 * __I__ - move light system forward
 * __J__ - move light system left
 * __L__ - move light system right
@@ -31,20 +32,22 @@ _Note: this project is not in active development._
 * __U__ - move light system down
 * __O__ - move light system up
 
+
 * __Q__ - add a new light
 * __E__ - toggle lights between point and spotlight
+
 
 * __Z__ - toggle fog on and off
 * __X__ - re-load shaders
 * __C__ - turn lights on and off
 * __Space__ - turn wireframe drawing on and off
 
+
 * __1__ - basic map (flat)
 * __2__ - fractal map, no tessellation
 * __3__ - fractal map, 1x tessellation
 * __4__ - fractal map, 2x tessellation
 * __5__ - fractal map, 4x tessellation
-
 * __F1__ - fullscreen
 * __F2__ - exit fullscreen
 
